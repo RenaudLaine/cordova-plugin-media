@@ -17,7 +17,7 @@
 #         under the License.
 -->
 
-# cordova-plugin-media
+# CUSTOM cordova-plugin-media with amr recording on Android
 
 
 This plugin provides the ability to record and play back audio files on a device.
